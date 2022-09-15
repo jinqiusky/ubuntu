@@ -28,11 +28,11 @@
 //"wallpaper": "https://raw.githubusercontent.com/wwz09/ubuntu/master/jpg/03.jpg",
 //"wallpaper": "https://raw.githubusercontent.com/wwz09/ubuntu/master/jpg/04.jpg",
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd3d6MDkvdWJ1bnR1L3Jhdy9icmFuY2gvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d3ejA5L3VidW50dS9tYXN0ZXIvdHYvbGl2ZS50eHQ="]}]}],
 
-//"lives":[{"group":"redirect","channels":[{"name":"TV","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd3d6MDkvdWJ1bnR1L3Jhdy9icmFuY2gvbWFzdGVyL3R2L1RWLnR4dA=="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"TV","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d3ejA5L3VidW50dS9tYXN0ZXIvdHYvVFYudHh0"]}]}],
 
-//"lives":[{"group":"redirect","channels":[{"name":"iptv","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd3d6MDkvdWJ1bnR1L3Jhdy9icmFuY2gvbWFzdGVyL3R2L2lwdHYudHh0"]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"iptv","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3d3ejA5L3VidW50dS9tYXN0ZXIvdHYvaXB0di50eHQ="]}]}],
 
 
 ##sites
