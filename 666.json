@@ -13,7 +13,7 @@
 "云星bili":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/云星bili.jar",
 "BC":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/BC.jar",
 "custom_spider":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/custom_spider.jar",
-"901":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/901.jar",
+"XC0915":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/XC0915.jar",
 "Tangsan999":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/Tangsan999.jar",
 "RBTV":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/RBTV.jar",
 "sc":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/sc.jar",
@@ -27,12 +27,14 @@
 //"wallpaper": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/jpg/02.jpg",
 //"wallpaper": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/jpg/03.jpg",
 //"wallpaper": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/jpg/04.jpg",
+
+
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3d6MDkvdWJ1bnR1L21hc3Rlci90di9saXZlLnR4dA=="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd3d6MDkvc3VkL3Jhdy9icmFuY2gvbWFpbi90di9saXZlLnR4dA=="]}]}],
 
-//"lives":[{"group":"redirect","channels":[{"name":"TV","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3d6MDkvdWJ1bnR1L21hc3Rlci90di9UVi50eHQ="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"TV","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd3d6MDkvc3VkL3Jhdy9icmFuY2gvbWFpbi90di9UVi50eHQ="]}]}],
 
-//"lives":[{"group":"redirect","channels":[{"name":"iptv","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd3d6MDkvdWJ1bnR1L21hc3Rlci90di9pcHR2LnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"iptv","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd3d6MDkvc3VkL3Jhdy9icmFuY2gvbWFpbi90di9pcHR2LnR4dA=="]}]}],
 
 
 ##sites
@@ -40,9 +42,9 @@
  "sites":[
 
 
-{"key":"csp_Lezhu","name":"🐷乐猪(SP)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/901.jar"},
-{"key":"KanSJ","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/901.jar"},
-{"key": "csp_Auete","name": "🐞Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/901.jar"},
+{"key":"csp_Lezhu","name":"🐷乐猪(SP)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/XC0915.jar"},
+{"key":"KanSJ","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/XC0915.jar"},
+{"key": "csp_Auete","name": "🐞Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/XC0915.jar"},
 {"key":"csp_Cokemv","name":"🐞Coke","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🐞快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -57,14 +59,14 @@
 {"key":"csp_Cokemv","name":" 🐞🚗Cokemv(ijk播放器)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":" 🐞✨爱看(ijk播放器)","type": 3,"api": "csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lib","name":" 🐞🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":0,"quickSearch":1,"filterable":1},
-{"key": "csp_2BT","name": "🐞2BT(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/901.jar"},
+{"key": "csp_2BT","name": "🐞2BT(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/XC0915.jar"},
 {"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"追剧喵","name":"😸追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/901.jar"},
-{"key":"3EDY","name":"🗽3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/901.jar"},
+{"key":"追剧喵","name":"😸追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/XC0915.jar"},
+{"key":"3EDY","name":"🗽3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/XC0915.jar"},
 {"key":"hnzy","name":"🐂红牛资源(SP)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/901.jar"},
+{"key":"mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/XC0915.jar"},
 {"key":"csp_hbys","name":" 🐞✂️简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
 {"key": "csp_Anime1","name":" 🐞🌸动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":" 🐞✌在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
