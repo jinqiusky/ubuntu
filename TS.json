@@ -2,7 +2,7 @@
 // 配置地址 -->https://raw.iqiq.io/wwz09/ubuntu/master/TS.json
 
 {
-  "spider":"https://raw.iqiq.io/wwz09/ubuntu/master/Jar/TT.jar",
+  "spider":"https://raw.iqiq.io/wwz09/ubuntu/master/Jar/BC.jar",
 
 
 "jars":
@@ -16,7 +16,7 @@
 "2915":"https://raw.iqiq.io/wwz09/ubuntu/master/Jar/2915.jar",
 "ALi":"https://raw.iqiq.io/wwz09/ubuntu/master/Jar/ALi.jar",
 "TT":"https://raw.iqiq.io/wwz09/ubuntu/master/Jar/TT.jar",
-"TT":""
+"BC":""
 },
 
 ##主页壁纸
