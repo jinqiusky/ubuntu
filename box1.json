@@ -1,10 +1,10 @@
 # 配置地址 简易设定流程
-//  配置地址 -->https://raw.iqiq.io/wwz09/ubuntu/master/666.json
+//  配置地址 -->https://raw.iqiq.io/wwz09/ubuntu/master/box1.json
 
 
 
 {
-  "spider":"https://raw.iqiq.io/wwz09/ubuntu/master/Jar/666.jar",
+  "spider":"https://raw.iqiq.io/wwz09/ubuntu/master/Jar/box1.jar",
 
 
 "jars":
@@ -18,7 +18,7 @@
 "2915":"https://raw.iqiq.io/wwz09/ubuntu/master/Jar/2915.jar",
 "ALi":"https://raw.iqiq.io/wwz09/ubuntu/master/Jar/ALi.jar",
 "TT":"https://raw.iqiq.io/wwz09/ubuntu/master/Jar/TT.jar",
-"666":""
+"box1":""
 },
 
 ##主页壁纸
