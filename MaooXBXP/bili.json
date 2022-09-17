@@ -1,16 +1,5 @@
 {
-    "classes": [{
-            "type_name": "搞笑",
-            "type_id": "搞笑"
-        },
-        {
-            "type_name": "鬼畜",
-            "type_id": "鬼畜"
-        },
-        {
-            "type_name": "Sports",
-            "type_id": "球星"
-        },
+    "classes": [
         {
             "type_name": "戏曲",
             "type_id": "戏曲"
@@ -34,6 +23,18 @@
         {
             "type_name": "儿童",
             "type_id": "儿童"
+        },
+        {
+            "type_name": "Sports",
+            "type_id": "球星"
+        },
+        {
+            "type_name": "搞笑",
+            "type_id": "搞笑"
+        },
+        {
+            "type_name": "鬼畜",
+            "type_id": "鬼畜"
         },
         {
             "type_name": "RunningMan",

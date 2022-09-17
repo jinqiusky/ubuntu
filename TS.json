@@ -2,21 +2,21 @@
 // 配置地址 -->https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/TS.json
 
 {
-  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/TS.jar",
+  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/TT.jar",
 
 
 "jars":
 {
-"XC":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/XC.jar",
-"云星bili":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/云星bili.jar",
-"BC":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/BC.jar",
-"custom_spider":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/custom_spider.jar",
-"901":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/901.jar",
-"Tangsan999":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/Tangsan999.jar",
-"RBTV":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/RBTV.jar",
-"sc":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/sc.jar",
-"TS":"https://ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/master/Jar/TS.jar",
-"TS":""
+"XBiubiuLA4":"https://raw.iqiq.io/wwz09/sud/master/Jar/XBiubiuLA4.jar",
+"dq0802":"https://raw.iqiq.io/wwz09/sud/master/Jar/dq0802.jar",
+"XBiubiuLA3":"https://raw.iqiq.io/wwz09/sud/master/Jar/XBiubiuLA3.jar",
+"BC":"https://raw.iqiq.io/wwz09/sud/master/Jar/BC.jar",
+"custom_spider":"https://raw.iqiq.io/wwz09/sud/master/Jar/custom_spider.jar",
+"XC0915":"https://raw.iqiq.io/wwz09/sud/master/Jar/XC0915.jar",
+"2915":"https://raw.iqiq.io/wwz09/sud/master/Jar/2915.jar",
+"ALi":"https://raw.iqiq.io/wwz09/sud/master/Jar/ALi.jar",
+"TT":"https://raw.iqiq.io/wwz09/sud/master/Jar/TT.jar",
+"TT":""
 },
 
 ##主页壁纸
